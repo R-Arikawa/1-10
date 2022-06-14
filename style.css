@@ -83,9 +83,17 @@ main {
   }
   
   .step-img1 {
-  background-size: cover;
-  background-position: bottom center;
-
+    background-size: cover;
+    background-position: bottom center;
   }
   
+  .step-img2 {
+    background-size: cover;
+    background-position: bottom center;
+  }
+  
+  .step-img3 {
+    background-size: cover;
+    background-position: bottom center;
+  }
 }
